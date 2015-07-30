@@ -1,0 +1,994 @@
+Content-type: text/html
+X-Powered-By: PHP/4.3.11
+
+htmlparser Object
+(
+    [page] => Array
+        (
+            [0] => <HTML> <HEAD>  <!-- Inicio codigo e-planning - head -->  <script language="JavaScript"> <!-- var srcsup = 0; // --> </script> <script language="JavaScript1.1"> <!-- srcsup = 1; // --> </script>  <script language="Javascript"> <!--  //Variables para las keywords var kw1 = ""; var kw2 = ""; var kw3 = ""; var kw4 = ""; var kw5 = ""; var kw6 = ""; var kw7 = ""; var kw8 = ""; var kw9 = "";   var sitio_id = '844'; var eplrnd = (new String(Math.random())).substring(2,8) + (((new Date()).getTime()) & 262143);  function eplAD(espacio) { var ad; if (srcsup) { ad = '<scri' + 'pt language="JavaScript1.1" type="text/javascript" src="http://ads.us.e-planning.net/eb/3/' + sitio_id + '/' + espacio + '?o=j&rnd=' + eplrnd + (kw1 ? '&kw_1=' + kw1 : '') + (kw2 ? '&kw_2=' + kw2 : '') + (kw3 ? '&kw_3=' + kw3 : '') + (kw4 ? '&kw_4=' + kw4 : '') + (kw5 ? '&kw_5=' + kw5 : '') + (kw6 ? '&kw_6=' + kw6 : '') + (kw7 ? '&kw_7=' + kw7 : '') + (kw8 ? '&kw_8=' + kw8 : '') + (kw9 ? '&kw_9=' + kw9 : '') + '"></scr' + 'ipt>'; } else { ad = '<a href="http://ads.us.e-planning.net/ei/3/' + sitio_id + '/' + espacio + '?it=i&rnd=' + eplrnd + '" target="_top"><img alt="e-planning.net ad" src="http://ads.us.e-planning.net/eb/3/' + sitio_id + '/' + espacio + '?o=i&rnd=' + eplrnd + '" border=0></a>'; } document.write(ad); } // --> </script>   <!-- Fin codigo e-planning -->  
+            [1] => <tITLE>PORTAFOLIO.COM.CO -  Noticias económicas
+            [2] => </tITLE>  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <meta  http-equiv="Cache-Control" content="max-age=0"> <meta name=Generator content="Sistema CMS, Nuevos Medios: Casa Editorial EL TIEMPO"> <meta name="DESCRIPTION" content="Portafolio, el mejor diario de Economía y Negocios en Colombia. Actualidad Economica, indicadores económicos, estadísticas, finanzas, comercio intenacional, consultorio, negocios y mucho más."> <meta name="keywords" content="Noticias económicas, periódico, información, prensa, news, journal, economic journal, colombia, colombian, economía, internacional, archivo electrónico, portafolio en internet, portafolio on line,  casa editorial el tiempo, monedas, gráficos, estadísticas, comercio, finanzas, negocios"> <meta name=SectionDate content="20juli2006"> <meta name=SectionName content="2204porta">  </HEAD> <BODY leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 bgcolor=FFFFFF link=003232 vlink=003232 alink=003232 class=textoNormal> <script language="JavaScript" src="/js/sitedef.js"></script><script language="JavaScript"> <!-- var s_pageName=": Home Portafolio" var s_server=nm_servidor_origen var s_channel="Online" --> </script> <SCRIPT src="/portafolio.js" language="JavaScript"></SCRIPT>  <SCRIPT LANGUAGE="JavaScript">numero_cache_barra=Math.floor (Math.random()*1000000)</SCRIPT> <STYLE type="text/css"> .tituloTitular { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold; color: #003232; text-decoration: none} .tituloLink { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8.5pt; font-weight: bold; color: #003232; text-decoration: undeline} .tituloLinkSeccion { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #990000; text-decoration: underline} .textoLead { font-family: Verdana, Helvetica,Arial ; font-size: 12px; color: #000000; line-height: 12pt} .textoNormal { font-family: Verdana, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #000000; line-height: 12pt} .tituloSeccion { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold; color: #003232; text-decoration: none} .intertitulo { font-family: Verdana, Helvetica, sans-serif; font-size: 9pt; font-style: normal; font-weight: bold; color: #003232} .antetitulo { font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #990000; font-style: normal; font-weight: normal} .fotoApertura { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; font-style: normal; font-weight: normal} .fuenteFecha { font-family: Verdana, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; color: FFFFFF; font-style: normal} .barraizq { font-family: Verdana,Arial,Geneva; font-size: 8pt; color: #003200; font-style: normal; text-decoration: none; vertical-align: center; letter-spacing: 0px; font-weight: normal;} .indicador { font-family: Verdana,Arial,Geneva; font-size: 7.5pt; color: #003200; font-style: normal; text-decoration: none; vertical-align: center; letter-spacing: 0px; font-weight: normal;} .barraizqInd{ font-family: Verdana,Arial,Geneva; font-size: 8pt; color: #003200; font-style: normal; text-decoration: underline; vertical-align: center; letter-spacing: 0px; font-weight: normal;} .linkTitularRel { font-family: Verdana, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color:  #006363; text-decoration: underline} .titIndicador {   FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif          } .tituloInd {   font-family: Verdana,Arial,Geneva; font-size: 8pt; color: #003200; font-style: bold; text-decoration: none; vertical-align: center; letter-spacing: 0px; font-weight: bold;          } .TextInd { font-family: Arial, Verdana, sans-serif; font-size: 7.5pt; font-weight: normal; color: #000000; text-decoration: none} .botseccionIndicadores {font-family: Arial,Geneva,Verdana; font-size: 8pt; color: #000000; font-style: normal; text-decoration: none; vertical-align: center; letter-spacing: 0px; font-weight: bold;} .linkBlanco{font-family: arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #ffffff; text-decoration: underline } .tapo {	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none} </STYLE>
+            [3] => <tABLE cellSpacing=0 cellPadding=1 width=780 border=0> 
+            [4] => <tR> 
+            [5] => <tD align=left width=312><A href="http://www.portafolio.com.co"><IMG height=48 width=304 src="/img/cabportafoliohome.gif" border=0 alt="El Diario de economía y negocios"></A>
+            [6] => </tD> 
+            [7] => <tD width="468"><!-- Nombre: ID_BANNER_SECCION --> <!-- Inicio codigo e-planning - Espacio -->  <script type="text/javascript" language="JavaScript"> eplAD("58a7376651dc535f"); </script>  <!-- Fin codigo e-planning --> 
+            [8] => </tD> 
+            [9] => </tR> 
+            [10] => </tABLE>  
+            [11] => <tABLE cellSpacing=0 cellPadding=0 width=780 background="" bgColor=#006666 border=0 valign="top"> 
+            [12] => <tR> 
+            [13] => <tD vAlign=middle align=left bgColor=#006666 height=10 width=320><B><FONT class=fuenteFecha>&nbsp;Bogot&aacute;,&nbsp; Jueves 20 de julio de 2006<!-- Lunes 15 de julio de 2002--> </FONT></B>
+            [14] => </tD> 
+            [15] => <tD width=170 vAlign=middle align=left class=fuenteFecha height=10><font color=FBCB04><nobr><SCRIPT LANGUAGE=JavaScript>Hora_actual_serv=1019559660;</SCRIPT> <SCRIPT LANGUAGE=JavaScript>Hora_actual_serv=1113061024;</SCRIPT><SCRIPT LANGUAGE=JavaScript> Hora_actual_cms =1153397175; Hora_imprimir ="07:06 a.m.";  Fecha_serv = new Date(Hora_actual_serv*1000); Fecha_cms  = new Date(Hora_actual_cms*1000);  Dia_serv = Fecha_cms.getDay(); Dia_cms =Fecha_serv.getDay(); Hora_cms=Fecha_cms.getHours(); Hora_serv=Fecha_serv.getHours(); Min_cms =Fecha_cms.getMinutes(); Min_serv=Fecha_serv.getMinutes();  if(Dia_cms< Dia_serv && Dia_serv !=0) {   if(Hora_cms>Hora_serv ||(Hora_cms==Hora_serv && Min_cms > Min_serv)) { document.write(""); } else { document.write("&nbsp; Actualizado: "+Hora_imprimir); } } else { document.write("&nbsp; Actualizado: "+Hora_imprimir);  }  </SCRIPT> </nobr></font>
+            [16] => </tD> 
+            [17] => <tD width=90 valign=middle><a href="javascript:abrir_contactenos()"><img src=/img/escribanos.gif width=90 height=20 border=0></a>
+            [18] => </tD> 
+            [19] => <tD vAlign=middle width=10> &nbsp;
+            [20] => </tD> 
+            [21] => <tD width=58><a href="http://www.eltiempo.com" onClick='s_linkType="e";s_linkName="Home Eltiempo.com";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><img src=/img/botontiempo.gif width=58 height=20 border=0></a>
+            [22] => </tD> 
+            [23] => <td width=2> &nbsp;
+            [24] => </td> 
+            [25] => <tD width=42><a href="http://www.motor.com.co" onClick='s_linkType="e";s_linkName="Home Motor.com.co";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><img src=/img/botonmotor.gif width=42 height=20 border=0></a>
+            [26] => </tD> 
+            [27] => <td width=7> &nbsp;
+            [28] => </td> 
+            [29] => <tD width=42><a href="http://www.enter.com.co" onClick='s_linkType="e";s_linkName="Home Enter.com.co";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><img src=/img/botonenter.gif width=38 height=20 border=0></a>
+            [30] => </tD> 
+            [31] => <tD width=40><a href="http://www.elempleo.com" onClick='s_linkType="e";s_linkName="Home Elempleo.com.co";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><img src=/img/botonelempleo.gif width=80 height=20 border=0></a>
+            [32] => </tD>  <!--td width=40> &nbsp;
+            [33] => </td--> 
+            [34] => </tR> 
+            [35] => </tABLE><!-- Nombre: ID_RASCACIELOS --> <!-- Inicio codigo e-planning - SOLAPA -->  <script type="text/javascript" language="JavaScript"> if (screen.width > 800) { eplAD("f8c2fb5d1c6bfbe8"); } </script>  <!-- Fin codigo e-planning -->  
+            [36] => <tABLE cellPadding=0 cellSpacing=0 width=780 border=0> 
+            [37] => <tr> 
+            [38] => <td height=12> 
+            [39] => </td> 
+            [40] => </tr> 
+            [41] => </table> 
+            [42] => <tABLE cellPadding=0 cellSpacing=0 width=780 border=0> 
+            [43] => <tR> 
+            [44] => <tD vAlign=top width=124> 
+            [45] => <tABLE cellSpacing=0 cellPadding=0 width=131 border=0 bgcolor=F8D5AF bordercolor=F8D5AF> 
+            [46] => <tr>
+            [47] => <td colspan=2 height=12>
+            [48] => <table border=0 width='100%'>
+            [49] => <tr> 
+            [50] => <td height=4> 
+            [51] => </td> 
+            [52] => </tr>
+            [53] => </table>
+            [54] => </td> 
+            [55] => </tr> 
+            [56] => <tr align=center>
+            [57] => <td valign=middle align=center colspan=2><img src="/img/cabsecciones.gif" width=101 height=17 vspace=0>
+            [58] => </td> 
+            [59] => </tr> 
+            [60] => <tr>
+            [61] => <td colspan=2 width=3 height=12>
+            [62] => <table border=0 widh=100%>
+            [63] => <tr> 
+            [64] => <td height=4> 
+            [65] => </td> 
+            [66] => </tr>
+            [67] => </table>
+            [68] => </td> 
+            [69] => </tr> 
+            [70] => <tr>
+            [71] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [72] => </td>
+            [73] => </tr> 
+            [74] => <tr height=17>
+            [75] => <td valign=middle width=5 height=17>&nbsp;
+            [76] => </td>
+            [77] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_ana_online/redireccion.html?1926774645' class='barraizq'>Análisis</a>
+            [78] => </td>
+            [79] => </tr> 
+            [80] => <tr>
+            [81] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [82] => </td>
+            [83] => </tr> 
+            [84] => <tr height=17>
+            [85] => <td valign=middle width=5 height=17>&nbsp;
+            [86] => </td>
+            [87] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_ang_online/redireccion.html?1926774645' class='barraizq'>Angulos</a>
+            [88] => </td>
+            [89] => </tr> 
+            [90] => <tr>
+            [91] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [92] => </td>
+            [93] => </tr> 
+            [94] => <tr height=17>
+            [95] => <td valign=middle width=5 height=17>&nbsp;
+            [96] => </td>
+            [97] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_bien_online/redireccion.html?1926774645' class='barraizq'>Bienestar</a>
+            [98] => </td>
+            [99] => </tr> 
+            [100] => <tr>
+            [101] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [102] => </td>
+            [103] => </tr> 
+            [104] => <tr height=17>
+            [105] => <td valign=middle width=5 height=17>&nbsp;
+            [106] => </td>
+            [107] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_bruj_online/redireccion.html?1926774645' class='barraizq'>Brújula</a>
+            [108] => </td>
+            [109] => </tr> 
+            [110] => <tr>
+            [111] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [112] => </td>
+            [113] => </tr> 
+            [114] => <tr height=17>
+            [115] => <td valign=middle width=5 height=17>&nbsp;
+            [116] => </td>
+            [117] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_cron_online/redireccion.html?1926774645' class='barraizq'>Crónica</a>
+            [118] => </td>
+            [119] => </tr> 
+            [120] => <tr>
+            [121] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [122] => </td>
+            [123] => </tr> 
+            [124] => <tr height=17>
+            [125] => <td valign=middle width=5 height=17>&nbsp;
+            [126] => </td>
+            [127] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_domi_online/redireccion.html?1926774645' class='barraizq'>Dos minutos</a>
+            [128] => </td>
+            [129] => </tr> 
+            [130] => <tr>
+            [131] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [132] => </td>
+            [133] => </tr> 
+            [134] => <tr height=17>
+            [135] => <td valign=middle width=5 height=17>&nbsp;
+            [136] => </td>
+            [137] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_econ_online/redireccion.html?1926774645' class='barraizq'>Economía Hoy</a>
+            [138] => </td>
+            [139] => </tr> 
+            [140] => <tr>
+            [141] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [142] => </td>
+            [143] => </tr> 
+            [144] => <tr height=17>
+            [145] => <td valign=middle width=5 height=17>&nbsp;
+            [146] => </td>
+            [147] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_edit_online/redireccion.html?1926774645' class='barraizq'>Editorial</a>
+            [148] => </td>
+            [149] => </tr> 
+            [150] => <tr>
+            [151] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [152] => </td>
+            [153] => </tr> 
+            [154] => <tr height=17>
+            [155] => <td valign=middle width=5 height=17>&nbsp;
+            [156] => </td>
+            [157] => <td valign=middle height=17><a href='http://www.elempleo.com/clientes/cons_prof.asp?todo=1' target='_blank'  class=barraizq>Empleos</a>
+            [158] => </td>
+            [159] => </tr> 
+            [160] => <tr>
+            [161] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [162] => </td>
+            [163] => </tr> 
+            [164] => <tr height=17>
+            [165] => <td valign=middle width=5 height=17>&nbsp;
+            [166] => </td>
+            [167] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_entre_online/redireccion.html?1926774645' class='barraizq'>Entretenimiento</a>
+            [168] => </td>
+            [169] => </tr> 
+            [170] => <tr>
+            [171] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [172] => </td>
+            [173] => </tr> 
+            [174] => <tr height=17>
+            [175] => <td valign=middle width=5 height=17>&nbsp;
+            [176] => </td>
+            [177] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_algr_online/redireccion.html?1926774645' class='barraizq'>Entrevistas</a>
+            [178] => </td>
+            [179] => </tr> 
+            [180] => <tr>
+            [181] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [182] => </td>
+            [183] => </tr> 
+            [184] => <tr height=17>
+            [185] => <td valign=middle width=5 height=17>&nbsp;
+            [186] => </td>
+            [187] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_expe_online/redireccion.html?1926774645' class='barraizq'>Expectativa</a>
+            [188] => </td>
+            [189] => </tr> 
+            [190] => <tr>
+            [191] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [192] => </td>
+            [193] => </tr> 
+            [194] => <tr height=17>
+            [195] => <td valign=middle width=5 height=17>&nbsp;
+            [196] => </td>
+            [197] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_fina_online/redireccion.html?1926774645' class='barraizq'>Finanzas</a>
+            [198] => </td>
+            [199] => </tr> 
+            [200] => <tr>
+            [201] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [202] => </td>
+            [203] => </tr> 
+            [204] => <tr height=17>
+            [205] => <td valign=middle width=5 height=17>&nbsp;
+            [206] => </td>
+            [207] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_gere_online/redireccion.html?1926774645' class='barraizq'>Gerencia</a>
+            [208] => </td>
+            [209] => </tr> 
+            [210] => <tr>
+            [211] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [212] => </td>
+            [213] => </tr> 
+            [214] => <tr height=17>
+            [215] => <td valign=middle width=5 height=17>&nbsp;
+            [216] => </td>
+            [217] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_lunes_online/redireccion.html?1926774645' class='barraizq'>Harvard Business Review</a>
+            [218] => </td>
+            [219] => </tr> 
+            [220] => <tr>
+            [221] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [222] => </td>
+            [223] => </tr> 
+            [224] => <tr height=17>
+            [225] => <td valign=middle width=5 height=17>&nbsp;
+            [226] => </td>
+            [227] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_inte_online/redireccion.html?1926774645' class='barraizq'>Internacional</a>
+            [228] => </td>
+            [229] => </tr> 
+            [230] => <tr>
+            [231] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [232] => </td>
+            [233] => </tr> 
+            [234] => <tr height=17>
+            [235] => <td valign=middle width=5 height=17>&nbsp;
+            [236] => </td>
+            [237] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_nego_online/redireccion.html?1926774645' class='barraizq'>Negocios</a>
+            [238] => </td>
+            [239] => </tr> 
+            [240] => <tr>
+            [241] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [242] => </td>
+            [243] => </tr> 
+            [244] => <tr height=17>
+            [245] => <td valign=middle width=5 height=17>&nbsp;
+            [246] => </td>
+            [247] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_opin_online/redireccion.html?1926774645' class='barraizq'>Opinión</a>
+            [248] => </td>
+            [249] => </tr> 
+            [250] => <tr>
+            [251] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [252] => </td>
+            [253] => </tr> 
+            [254] => <tr height=17>
+            [255] => <td valign=middle width=5 height=17>&nbsp;
+            [256] => </td>
+            [257] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_perf_online/redireccion.html?1926774645' class='barraizq'>Perfiles empresariales</a>
+            [258] => </td>
+            [259] => </tr> 
+            [260] => <tr>
+            [261] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [262] => </td>
+            [263] => </tr> 
+            [264] => <tr height=17>
+            [265] => <td valign=middle width=5 height=17>&nbsp;
+            [266] => </td>
+            [267] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_inoc_online/redireccion.html?1926774645' class='barraizq'>Rumores</a>
+            [268] => </td>
+            [269] => </tr> 
+            [270] => <tr>
+            [271] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [272] => </td>
+            [273] => </tr> 
+            [274] => <tr height=17>
+            [275] => <td valign=middle width=5 height=17>&nbsp;
+            [276] => </td>
+            [277] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_sonde_online/redireccion.html?1926774645' class='barraizq'>Sondeo</a>
+            [278] => </td>
+            [279] => </tr> 
+            [280] => <tr>
+            [281] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [282] => </td>
+            [283] => </tr> 
+            [284] => <tr height=17>
+            [285] => <td valign=middle width=5 height=17>&nbsp;
+            [286] => </td>
+            [287] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_tecn_online/redireccion.html?1926774645' class='barraizq'>Tecnología</a>
+            [288] => </td>
+            [289] => </tr> 
+            [290] => <tr>
+            [291] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [292] => </td>
+            [293] => </tr> 
+            [294] => <tr height=17>
+            [295] => <td valign=middle width=5 height=17>&nbsp;
+            [296] => </td>
+            [297] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/porta_vita_online/redireccion.html?1926774645' class='barraizq'>Vitamina</a>
+            [298] => </td>
+            [299] => </tr> 
+            [300] => <tr>
+            [301] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [302] => </td>
+            [303] => </tr> 
+            [304] => <tr height=17>
+            [305] => <td valign=middle width=5 height=17>&nbsp;
+            [306] => </td>
+            [307] => <td valign=middle height=17><a href='http://www.portafolio.com.co/port_secc_online/redireccion.html?1926774645' class='barraizq'>Wall Street Journal</a>
+            [308] => </td>
+            [309] => </tr> 
+            [310] => <tr>
+            [311] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [312] => </td>
+            [313] => </tr> 
+            [314] => <tr> 
+            [315] => <td colspan=2 bgcolor=F8D5AF height=12> 
+            [316] => </td> 
+            [317] => </tr>  
+            [318] => </table>
+            [319] => <tABLE cellSpacing=0 cellPadding=0 width=131 border=0 bgcolor=F8D5AF bordercolor=F8D5AF> 
+            [320] => <tr align=center>
+            [321] => <td valign=middle align=center colspan=2><img src="/img/docNor.gif" width=131 height=17 vspace=0>
+            [322] => </td>
+            [323] => </tr> 
+            [324] => <tr>
+            [325] => <td colspan=2 width=3 height=12>
+            [326] => <table border=0 widh=100%>
+            [327] => <tr> 
+            [328] => <td height=4> 
+            [329] => </td> 
+            [330] => </tr>
+            [331] => </table>
+            [332] => </td> 
+            [333] => </tr> 
+            [334] => <tr>
+            [335] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [336] => </td>
+            [337] => </tr> 
+            [338] => <tr height=17>
+            [339] => <td valign=middle width=5 height=17>&nbsp;
+            [340] => </td>
+            [341] => <td valign=middle height=17><a href='http://www.portafolio.com.co/porta_dono_online/DOC_ATPA/redireccion.html?1049024364' class='barraizq'>Publicaciones PORTAFOLIO</a>
+            [342] => </td>
+            [343] => </tr> 
+            [344] => <tr>
+            [345] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [346] => </td>
+            [347] => </tr> 
+            [348] => <tr height=17>
+            [349] => <td valign=middle width=5 height=17>&nbsp;
+            [350] => </td>
+            [351] => <td valign=middle height=17><a href='http://www.portafolio.com.co/porta_dono_online/ley_doc_porta/redireccion.html?1049024364' class='barraizq'>Leyes</a>
+            [352] => </td>
+            [353] => </tr> 
+            [354] => <tr>
+            [355] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [356] => </td>
+            [357] => </tr> 
+            [358] => <tr height=17>
+            [359] => <td valign=middle width=5 height=17>&nbsp;
+            [360] => </td>
+            [361] => <td valign=middle height=17><a href='http://www.portafolio.com.co/porta_dono_online/proy_ley_porta/redireccion.html?1049024364' class='barraizq'>Proyectos de ley</a>
+            [362] => </td>
+            [363] => </tr> 
+            [364] => <tr>
+            [365] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [366] => </td>
+            [367] => </tr> 
+            [368] => <tr height=17>
+            [369] => <td valign=middle width=5 height=17>&nbsp;
+            [370] => </td>
+            [371] => <td valign=middle height=17><a href='http://www.portafolio.com.co/porta_dono_online/DOCS_DOLAR_PORTA/redireccion.html?1049024364' class='barraizq'>Histórico dólar</a>
+            [372] => </td>
+            [373] => </tr> 
+            [374] => <tr>
+            [375] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [376] => </td>
+            [377] => </tr> 
+            [378] => <tr height=17>
+            [379] => <td valign=middle width=5 height=17>&nbsp;
+            [380] => </td>
+            [381] => <td valign=middle height=17><a href='http://www.portafolio.com.co/porta_dono_online/PORT_SALMIN_HIST/redireccion.html?1049024364' class='barraizq'>Salario Mínimo Histórico</a>
+            [382] => </td>
+            [383] => </tr> 
+            [384] => <tr>
+            [385] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [386] => </td>
+            [387] => </tr> 
+            [388] => <tr height=17>
+            [389] => <td valign=middle width=5 height=17>&nbsp;
+            [390] => </td>
+            [391] => <td valign=middle height=17><a href='http://www.portafolio.com.co/porta_dono_online/DOCS_ALCA/redireccion.html?1049024364' class='barraizq'>Foros Portafolio</a>
+            [392] => </td>
+            [393] => </tr> 
+            [394] => <tr>
+            [395] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [396] => </td>
+            [397] => </tr> 
+            [398] => <tr height=17>
+            [399] => <td valign=middle width=5 height=17>&nbsp;
+            [400] => </td>
+            [401] => <td valign=middle height=17><a href='http://www.portafolio.com.co/porta_dono_online/10anios/index.html?1049024364' class='barraizq'>10 años</a>
+            [402] => </td>
+            [403] => </tr> 
+            [404] => <tr>
+            [405] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [406] => </td>
+            [407] => </tr> 
+            [408] => <tr height=17>
+            [409] => <td valign=middle width=5 height=17>&nbsp;
+            [410] => </td>
+            [411] => <td valign=middle height=17><a href='http://www.portafolio.com.co/porta_dono_online/otros_doc_porta/redireccion.html?1049024364' class='barraizq'>Otros</a>
+            [412] => </td>
+            [413] => </tr> 
+            [414] => <tr>
+            [415] => <td colspan=2 bgcolor=639C31 height=1><img src=/img/puntoverde.gif width=1 height=1 border=0>
+            [416] => </td>
+            [417] => </tr> 
+            [418] => <tr> 
+            [419] => <td colspan=2 bgcolor=F8D5AF height=12> 
+            [420] => </td> 
+            [421] => </tr> 
+            [422] => </table>
+            [423] => <tABLE cellSpacing=0 cellPadding=0 width=131 border=0 bgcolor=F8D5AF bordercolor=F8D5AF> 
+            [424] => <tR> 
+            [425] => <tD height=16>
+            [426] => <table border=0 widh=100%>
+            [427] => <tr> 
+            [428] => <td heigth=4> 
+            [429] => </td> 
+            [430] => </tr>
+            [431] => </table>
+            [432] => </tD> 
+            [433] => </tR> 
+            [434] => <tR>
+            [435] => <tD><IMG src="/img/cabindicadoreseconomicos.gif" width=131 height=17>
+            [436] => </tD>
+            [437] => </tR> 
+            [438] => <tR> 
+            [439] => <tD height=3>
+            [440] => <table cellSpacing=0 cellPadding=0 border=0 widh=100%>
+            [441] => <tr> 
+            [442] => <td height=3> 
+            [443] => </td> 
+            [444] => </tr>
+            [445] => </table>
+            [446] => </tD> 
+            [447] => </tR> 
+            [448] => </tABLE> 
+            [449] => <tABLE cellSpacing=0 cellPadding=0 width=127 border=1 bordercolor=787676> 
+            [450] => <tr> 
+            [451] => <td> 
+            [452] => <tABLE cellSpacing=0 cellPadding=0 width=127 border=0 bgcolor=E7E7E7> 
+            [453] => <tr bgColor=#dddddd>
+            [454] => <td valign=middle width=5>&nbsp;
+            [455] => </td>
+            [456] => <td valign=top><a href='http://www.portafolio.com.co/porta_indi_online/porta_denac_online/redireccion.html?488075611' class='barraizqInd'>Acciones</a>
+            [457] => </td>
+            [458] => </tr> 
+            [459] => <tr>
+            [460] => <td colspan=2 bgcolor=fffff height=1>
+            [461] => </td>
+            [462] => </tr> 
+            [463] => <tr bgColor=#dddddd>
+            [464] => <td valign=middle width=5>&nbsp;
+            [465] => </td>
+            [466] => <td valign=top><a href='http://www.portafolio.com.co/porta_indi_online/porta_dnde_online/redireccion.html?488075611' class='barraizqInd'>Despensa</a>
+            [467] => </td>
+            [468] => </tr> 
+            [469] => <tr>
+            [470] => <td colspan=2 bgcolor=fffff height=1>
+            [471] => </td>
+            [472] => </tr> 
+            [473] => <tr bgColor=#dddddd>
+            [474] => <td valign=middle width=5>&nbsp;
+            [475] => </td>
+            [476] => <td valign=top><a href='http://www.portafolio.com.co/porta_indi_online/porta_dnfi_online/redireccion.html?488075611' class='barraizqInd'>Interés efectivo</a>
+            [477] => </td>
+            [478] => </tr> 
+            [479] => <tr>
+            [480] => <td colspan=2 bgcolor=fffff height=1>
+            [481] => </td>
+            [482] => </tr> 
+            [483] => <tr bgColor=#dddddd>
+            [484] => <td valign=middle width=5>&nbsp;
+            [485] => </td>
+            [486] => <td valign=top><a href='http://www.portafolio.com.co/porta_indi_online/porta_dnmo_online/redireccion.html?488075611' class='barraizqInd'>Monedas</a>
+            [487] => </td>
+            [488] => </tr> 
+            [489] => <tr>
+            [490] => <td colspan=2 bgcolor=fffff height=1>
+            [491] => </td>
+            [492] => </tr> 
+            [493] => <tr bgColor=#dddddd>
+            [494] => <td valign=middle width=5>&nbsp;
+            [495] => </td>
+            [496] => <td valign=top><a href='http://www.portafolio.com.co/porta_indi_online/porta_mula_online/redireccion.html?488075611' class='barraizqInd'>Viajeros</a>
+            [497] => </td>
+            [498] => </tr> 
+            [499] => <tr>
+            [500] => <td colspan=2 bgcolor=fffff height=1>
+            [501] => </td>
+            [502] => </tr> 
+            [503] => </table> 
+            [504] => </td> 
+            [505] => </tr> 
+            [506] => </table>      <P> <script language=JavaScript> function cambiarPaginaEdicion(menu) { window.document.location = menu[menu.selectedIndex].value; } </script> 
+            [507] => <table width=130 border=0 cellspacing=0 cellpadding=0> 
+            [508] => <tr> 
+            [509] => <td bgcolor=#0069b3 align=center><img src=/img/ediciones.gif width=130 height=18>
+            [510] => </td> 
+            [511] => </tr> 
+            [512] => </table> 
+            [513] => <table width=128 border=1 cellspacing=0 cellpadding=0 bordercolor=787676> <form name=formaEdicion onSubmit=cambiarPaginaEdicion(this.menu)> 
+            [514] => <tr>
+            [515] => <td> 
+            [516] => <table width=126 border=0 cellspacing=0 cellpadding=0> 
+            [517] => <tr>
+            [518] => <td width=6>&nbsp; 
+            [519] => </td> 
+            [520] => <td width=106 class=antetitulo>Lea las noticias de los últimos días <font class=textoComboMenu><select name='edicion_anterior' onChange='cambiarPaginaEdicion(this)' class='textoComboMenu'> <option value="" SELECTED>&nbsp;Escoja el día&nbsp;</option> <option value='http://www.portafolio.com.co/hist_imp/2006-07-20/home.html'>20 Julio 2006</option> <option value='http://www.portafolio.com.co/hist_imp/2006-07-19/home.html'>19 Julio 2006</option> <option value='http://www.portafolio.com.co/hist_imp/2006-07-18/home.html'>18 Julio 2006</option> <option value='http://www.portafolio.com.co/hist_imp/2006-07-17/home.html'>17 Julio 2006</option> <option value='http://www.portafolio.com.co/hist_imp/2006-07-14/home.html'>14 Julio 2006</option> <option value='http://www.portafolio.com.co/hist_imp/2006-07-13/home.html'>13 Julio 2006</option> <option value='http://www.portafolio.com.co/hist_imp/2006-07-12/home.html'>12 Julio 2006</option> </select></font>
+            [521] => </td> 
+            [522] => </tr> <!-- tr>
+            [523] => <td colspan=2><br><a href='http://archivo.eltiempo.com.co/'  onClick='s_linkType="e";s_linkName="Ediciones Anteriores: Home Archivo Electrónico";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><img src=/img/edianteporta.gif width=126 height=65 border=0></a>
+            [524] => </td>
+            [525] => </tr --> </form> 
+            [526] => </table>
+            [527] => </td 
+            [528] => </tr>
+            [529] => </table>      <P> 
+            [530] => <table width="130" border=0 cellspacing=0 cellpadding=0> 
+            [531] => <tr>
+            [532] => <td bgcolor='#006060' align='center'><img src="/img/serviciosPorta2.gif" width="63" height=17>
+            [533] => </td>
+            [534] => </tr> 
+            [535] => <tr> 
+            [536] => <td>
+            [537] => <table width=126 border=0 cellspacing=0 cellpadding=2> 
+            [538] => <tr>
+            [539] => <td><a href="javascript:abrir_contactenos()" class=barraizqInd>Escríbanos</a>
+            [540] => </td>
+            [541] => </tr> <!-- tr>
+            [542] => <td><a href="http://archivo.eltiempo.com.co/" class=barraizqInd onClick='s_linkType="e";s_linkName="Servicios: Home Archivo Electrónico";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'>Archivo electrónico</a>
+            [543] => </td>
+            [544] => </tr --> 
+            [545] => <tr>
+            [546] => <td><a href="javascript:ventanaFoto('http://eltiempo.terra.com.co/archivo/archivoE.html', 600, 460)" class=barraizqInd onClick='s_linkType="e";s_linkName="Servicios: Home Archivo Electrónico";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'>Archivo electrónico</a>
+            [547] => </td>
+            [548] => </tr> 
+            [549] => <tr>
+            [550] => <td><a href="http://www.casaeditorialeltiempo.com/servicio_al_cliente/index.php" class=barraizqInd onClick='s_linkType="e";s_linkName="Servicios: Suscripciones Impreso";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'>Suscripciones</a>
+            [551] => </td>
+            [552] => </tr> 
+            [553] => </table>
+            [554] => </td> 
+            [555] => </tr> 
+            [556] => </table>        <P>   <br> <link href="/estilos/elempleo.css" rel="stylesheet" type="text/css">   <SCRIPT LANGUAGE=javascript> <!--  var TRIM_LEFT  = 0x0001; var TRIM_RIGHT = 0x0002; var TRIM_BOTH  = TRIM_LEFT | TRIM_RIGHT;  function strTrim( varText, side ) { var i = 0; var j = varText.length - 1;  if( side & TRIM_LEFT ) { for( i = 0; i < varText.length; i++ ) { if( varText.substring( i, i+1 ) != " " && varText.substring( i, i+1 ) != "\t") { break; } } }  if( side & TRIM_RIGHT ) { for( j = varText.length - 1; j >= 0; j-- ) { if( varText.substring( j, j+1 ) != " " && varText.substring( j, j+1 ) != "\t") break; } }  if( i <= j ) return( varText.substring( i, (j+1) ) ); else return(""); }  function isVacio(s) { return ((s == null) || (s.length == 0)) }  function ValidarCampoTexto(Campo, Mensaje) {  Campo.value = strTrim(Campo.value,TRIM_BOTH); if (isVacio(Campo.value)) { alert('\nEl valor de ' + Mensaje + ' no puede ser vacío.\n\nPor favor suministre la información.'); Campo.focus(); return false; }  return true; }  //-->  </SCRIPT>  <SCRIPT ID=clientEventHandlersJS LANGUAGE=javascript> <!--  function top_form_onsubmit() {  // Validar el titulo campo = document.top_form.txtpalabras; if (!ValidarCampoTexto(campo,'El Texto de búsqueda')) { return false; }  }  //--> </SCRIPT>   <form method="post" action="http://www.elempleo.com/clientes/resultados_buscriterios.asp" id="top_form" name="top_form" LANGUAGE=javascript onsubmit="return top_form_onsubmit()" target=_new> 
+            [557] => <table width="130" border="0" align="center" cellpadding="0" cellspacing="0"> 
+            [558] => <tr> 
+            [559] => <td width="154">
+            [560] => <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+            [561] => <tr> 
+            [562] => <td width="8" colspan="3"><img src="/img/img_elempleo/porta_busque3.gif" width="130" height="22">
+            [563] => </td> 
+            [564] => </tr> 
+            [565] => <tr> 
+            [566] => <td colspan="3" class="tabla">
+            [567] => <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+            [568] => <tr> 
+            [569] => <td width="11%"><div align="center"><img src="/img/img_elempleo/porta_bullet2.gif" width="10" height="10"></div> 
+            [570] => </td> 
+            [571] => <td width="89%" height="19" class="gris">B&uacute;squeda por palabra
+            [572] => </td> 
+            [573] => </tr> 
+            [574] => <tr> 
+            [575] => <td>&nbsp;
+            [576] => </td> 
+            [577] => <td height="27" width="144"> <font face="Verdana, Arial, Helvetica, sans-serif" size="-3"> <input type="text" name="txtpalabras" size="7" maxlength="20" style="WIDTH=100; FONT-FAMILY: VERDANA,ARIAL; FONT-SIZE: XX-SMALL"> </font> <input type="hidden" name="cmbregistros" value="10"> <input type="image" src="/img/img_elempleo/porta_ir.gif" width="18" height="16" alt="buscar empleo" border="0"> 
+            [578] => </td>
+            [579] => </tr> 
+            [580] => <tr> 
+            [581] => <td height="15" colspan="2" bgcolor="#F2F9FF"><div align="center"> 
+            [582] => <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+            [583] => <tr> 
+            [584] => <td width="12%"><div align="center"><img src="/img/img_elempleo/porta_bullet2.gif" width="10" height="10"></div> 
+            [585] => </td> 
+            [586] => <td width="88%" height="28" class="verde">B&uacute;squeda por industria
+            [587] => </td> 
+            [588] => </tr> 
+            [589] => </table> </div> 
+            [590] => </td> 
+            [591] => </tr> 
+            [592] => <tr> 
+            [593] => <td height="15" class="bloquetxt">&nbsp;
+            [594] => </td> 
+            [595] => <td height="62" class="bloquetxt"> <img src="/img/img_elempleo/porta_flecha.gif" width="8" height="9"> <a href="http://www.elempleo.com/clientes/oportunidad_oferta2.asp?id=130&ind=CONSUMO MASIVO" target=_new onClick='s_linkType="e";s_linkName="El empleo: Búsqueda: ";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'>Consumo masivo</a> <br><img src="/img/img_elempleo/porta_flecha.gif" width="8" height="9"> <a href="http://www.elempleo.com/clientes/oportunidad_oferta2.asp?id=125&ind=TECNOLOGIA" target=_new onClick='s_linkType="e";s_linkName="El empleo: Búsqueda: Tecnología";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'>Tecnología</a><br><img src="/img/img_elempleo/porta_flecha.gif" width="8" height="9"> <a href="http://www.elempleo.com/clientes/oportunidad_oferta2.asp?id=123&ind=SALUD" target=_new onClick='s_linkType="e";s_linkName="El empleo: Búsqueda: Salud";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'>Salud</a><br><img src="/img/img_elempleo/porta_flecha.gif" width="8" height="9"> <a href="http://www.elempleo.com/clientes/oportunidad_oferta2.asp?id=114&ind=FINANCIERO" target=_new onClick='s_linkType="e";s_linkName="El empleo: Búsqueda: Financiero";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'>Financiero</a> <br><img src="/img/img_elempleo/porta_flecha.gif" width="8" height="9"> <a href="http://www.elempleo.com/clientes/album_sector.asp?link=ofe_ind" onClick='s_linkType="e";s_linkName="El empleo: Búsqueda: Otras Industrias";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'>Otras industrias</a><br><br>
+            [596] => </td> 
+            [597] => </tr> 
+            [598] => <tr bgcolor="#003366"> 
+            [599] => <td height="15" colspan="2" class="bloquetxt"><div align="center"><img src="/img/img_elempleo/porta_pata.gif" width="112" height="20"></div>
+            [600] => </td> 
+            [601] => </tr> 
+            [602] => </table> 
+            [603] => </td> 
+            [604] => </tr> 
+            [605] => </table> 
+            [606] => </td> 
+            [607] => </tr> 
+            [608] => </table> </form>     <br> 
+            [609] => </tD> 
+            [610] => <tD width=5>&nbsp; 
+            [611] => </tD> 
+            [612] => <tD vAlign=top width=465 background=""> 
+            [613] => <table width=465 cellPadding=0 cellSpacing=0 border=0> 
+            [614] => <tr> 
+            [615] => <tD width=1>&nbsp; 
+            [616] => </tD> 
+            [617] => <td width=464 valign=top> 
+            [618] => <table align='right' width=200 border=0 cellpadding=2> 
+            [619] => <tr>  
+            [620] => <td valign=top width=200><script language="JavaScript"> vecImagen = new Array (); totFotos = 3;  function imagenR (url, ancho, alto, descripcion, credito, articulo,titulo) { this.url =url; this.ancho =ancho; this.alto = alto; this.descripcion = descripcion; this.credito = credito; this.articulo = articulo; this.titulo = titulo; }  function imagenRAlta (urlAlta, anchoAlta, altoAlta) { this.url =urlAlta; this.ancho =anchoAlta; this.alto = altoAlta; }  vecImagen = new Array ( new imagenR ("IMAGEN/IMAGEN-3051676-0.gif","141","157","  ","","" , "Importaciones colombianas  " ),new imagenR ("IMAGEN/IMAGEN-3051677-0.gif","154","225","  ","","" , "Variaciones de la producción  " ),new imagenR ("IMAGEN/IMAGEN-3051835-0.gif","140","171","  ","","port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051747.html" , "Reservas de petróleo hasta el 2017  ") );   vecImagenAlta = new Array ( new imagenRAlta ("IMAGEN-WEB-VENTANA_FOTO_PORTA-3051676.html","215","252"),new imagenRAlta ("IMAGEN-WEB-VENTANA_FOTO_PORTA-3051677.html","222","322"),new imagenRAlta ("IMAGEN-WEB-VENTANA_FOTO_PORTA-3051835.html","221","271") );  function get_random(maxNum) { if (Math.random && Math.round) { var ranNum= Math.round(Math.random()*(maxNum-1)); ranNum+=1; return ranNum; } else { today= new Date(); hours= today.getHours(); mins=   today.getMinutes(); secn=  today.getSeconds(); if (hours==19) hours=18; var ranNum= (((hours+1)*(mins+1)*secn)%maxNum)+1; return ranNum; } }  function get_Image() {  var choose_one= get_random(totFotos); choose_one--; document.write("<div align=center>");  if( vecImagenAlta[choose_one].url != null) { alto = vecImagenAlta[choose_one].alto +18; alto2= parseInt(vecImagenAlta[choose_one].alto) + 18; ancho = vecImagenAlta[choose_one].ancho; document.write("<!-- Aqui va la foto -->"); abre_link = "<a href=\"javascript:ventanaFoto('" +  vecImagenAlta[choose_one].url +  "','" + ancho + "','" + alto2 + "' )\"  title=\"haga clic para ampliar la fotografía\">"; cierra_link = "</a>"; } else { abre_link = ""; cierra_link = ""; }  document.write("<div align=left valign=top><span class=fotoApertura align=left>"); document.write("<b>" + vecImagen[choose_one].titulo + "</b> ");  document.write(abre_link); document.write("<IMG vspace=2 SRC='"+vecImagen[choose_one].url+"' width='"+vecImagen[choose_one].ancho+"' height='"+vecImagen[choose_one].alto+"' border=0 class=bordeImagen>"); document.write(cierra_link); document.write("</div>");  if( vecImagenAlta[choose_one].url != null) { document.write(abre_link); document.write( "<div align=right valign=top><img src=/img/botampliar.gif width=79 height=16 border=0></div>"); document.write(cierra_link); }  document.write("<div align=left valign=top><span class=fotoApertura align=left>"); document.write( vecImagen[choose_one].descripcion  + "<br>" + vecImagen[choose_one].credito ); //document.write("<br>"); //document.write(vecImagen[choose_one].credito);  if( vecImagen[choose_one].articulo != "") { //if( vecImagen[choose_one].credito != null) //     document.write("<br>");  document.write (" <a href=\"" + vecImagen[choose_one].articulo + "\" class=\"barraizq\">M&aacute;s información</a>"); } document.write("</span></div>");   var isNav,isIE if (parseInt(navigator.appVersion) >= 4) { if (navigator.appName == "Netscape") { isNav = true } else { isIE = true isNav = false } } if (isNav){ if(!document.layers) document.getElementById('tablaObjetoFoto').width=vecImagen[choose_one].ancho } }  </script> <script language="JavaScript"> get_Image() </script>  <P> <P> <!-- Nombre: ID_ROBAPAGINAS_PO --> <!-- Inicio codigo e-planning - Espacio -->  <script type="text/javascript" language="JavaScript"> eplAD("b9f56bb30f071b18"); </script>  <!-- Fin codigo e-planning -->     <P> <P> 
+            [621] => <table width=193 border=0 cellpadding=2 cellPadding=0> 
+            [622] => <tr>
+            [623] => <td colspan=2><a class=tituloLinkSeccion href='port_secc_online/porta_edit_online/redireccion.html' border=0 ><b>Editorial</b></a>
+            [624] => </td>
+            [625] => </tr> 
+            [626] => <tr>
+            [627] => <td valign=top  width=4><img src=/img/puntorojo.gif width=2 height=2 vspace=5 hspace=1>
+            [628] => </td>
+            [629] => <td><a class=tituloLink href='port_secc_online/porta_edit_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051801.html'><b>La gran oportunidad del siglo XXI (I)</b></a>
+            [630] => </td>
+            [631] => </tr>
+            [632] => </table><br>
+            [633] => <table width=193 border=0 cellpadding=2 cellPadding=0> 
+            [634] => <tr>
+            [635] => <td colspan=2><a class=tituloLinkSeccion href='port_secc_online/porta_domi_online/redireccion.html' border=0 ><b>Dos minutos</b></a>
+            [636] => </td>
+            [637] => </tr> 
+            [638] => <tr>
+            [639] => <td valign=top  width=4><img src=/img/puntorojo.gif width=2 height=2 vspace=5 hspace=1>
+            [640] => </td>
+            [641] => <td><a class=tituloLink href='port_secc_online/porta_domi_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051690.html'><b>Vuelve debate sobre fusión de centrales obreras</b></a>
+            [642] => </td>
+            [643] => </tr>
+            [644] => </table><br>
+            [645] => <table width=193 border=0 cellpadding=2 cellPadding=0> 
+            [646] => <tr>
+            [647] => <td colspan=2><a class=tituloLinkSeccion href='hist_imp/porta_secc/porta_inoc/redireccion.html' border=0 ><b>Interés oculto</b></a>
+            [648] => </td>
+            [649] => </tr> 
+            [650] => <tr>
+            [651] => <td valign=top  width=4><img src=/img/puntorojo.gif width=2 height=2 vspace=5 hspace=1>
+            [652] => </td>
+            [653] => <td><a class=tituloLink href='hist_imp/porta_secc/porta_inoc/2006-07-17/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3020952.html'><b>Pleito eléctrico con árbitros muy pesados</b></a>
+            [654] => </td>
+            [655] => </tr>
+            [656] => </table><br>
+            [657] => <table width=193 border=0 cellpadding=2 cellPadding=0> 
+            [658] => <tr>
+            [659] => <td colspan=2><a class=tituloLinkSeccion href='port_secc_online/porta_nego_online/redireccion.html' border=0 ><b>Negocios</b></a>
+            [660] => </td>
+            [661] => </tr> 
+            [662] => <tr>
+            [663] => <td valign=top  width=4><img src=/img/puntorojo.gif width=2 height=2 vspace=5 hspace=1>
+            [664] => </td>
+            [665] => <td><a class=tituloLink href='port_secc_online/porta_nego_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051708.html'><b>Venden 50% del Círculo de Lectores</b></a>
+            [666] => </td>
+            [667] => </tr> 
+            [668] => <tr>
+            [669] => <td valign=top  width=4><img src=/img/puntorojo.gif width=2 height=2 vspace=5 hspace=1>
+            [670] => </td>
+            [671] => <td><a class=tituloLink href='port_secc_online/porta_nego_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051710.html'><b>SABMiller aporta recursos para cervecería en el Valle</b></a>
+            [672] => </td>
+            [673] => </tr>
+            [674] => </table><br>
+            [675] => <table width=193 border=0 cellpadding=2 cellPadding=0> 
+            [676] => <tr>
+            [677] => <td colspan=2><a class=tituloLinkSeccion href='port_secc_online/porta_tecn_online/redireccion.html' border=0 ><b>Tecnología</b></a>
+            [678] => </td>
+            [679] => </tr> 
+            [680] => <tr>
+            [681] => <td valign=top  width=4><img src=/img/puntorojo.gif width=2 height=2 vspace=5 hspace=1>
+            [682] => </td>
+            [683] => <td><a class=tituloLink href='port_secc_online/porta_tecn_online/2006-07-05/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051779.html'><b>Guerra de formatos de DVD</b></a>
+            [684] => </td>
+            [685] => </tr>
+            [686] => </table><br>        <br> 
+            [687] => </td> 
+            [688] => </tr> 
+            [689] => </table> 	<div align=left> <a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051753.html" class=tituloTitular >  <b>Sesiones legislativas, con una fuerte agitación política</b> </a><br><font class=textoLead>Las sesiones ordinarias del Congreso de la República que se inician hoy, tendrán características sin antecedentes en la historia política del país.		<a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051753.html"> <font size=2 face="Arial, Helvetica, sans-serif"> <nobr>m&aacute;s >></nobr> </font> </a> </font><br>  </div><br> <a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051745.html" class=tituloTitular>Ante la Organización Mundial de Comercio Panamá lleva queja contra Colombia</a><br><font class=textoLead>La protesta se origina porque Colombia sólo permite el ingreso de mercancías de ese país, por el puerto de Barranquilla o el aeropuerto Eldorado.&nbsp;<a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051745.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br> <a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051742.html" class=tituloTitular>Siguen las críticas a los TLC con Estados Unidos</a><br><font class=textoLead>Según el presidente de la Comisión de Representantes Permanentes del Mercosur, Carlos Alvarez, los 'mini Alcas’ son incompatibles con el bloque.&nbsp;<a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051742.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br> <a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051747.html" class=tituloTitular>La autosuficiencia petrolera se extendería hasta el 2017</a><br><font class=textoLead>Estudio contratado por la Agencia Nacional de Hidrocarburos señaló las condiciones que se deberían cumplir para lograr ese propósito.&nbsp;<a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051747.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br> <a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051748.html" class=tituloTitular>Los celulares facturan casi tres veces más que los fijos</a><br><font class=textoLead>El sector de las telecomunicaciones registró ventas el año pasado por 14,6 billones de pesos, según un informe entregado por la CRT.&nbsp;<a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051748.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br> <a href="port_secc_online/porta_fina_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051757.html" class=tituloTitular>Habría pausa en movimiento de tasas de la FED</a><br><font class=textoLead>La Reserva Federal de Estados Unidos dejó entrever ayer su preocupación por una posible desaceleración en el crecimiento de la economía.&nbsp;<a href="port_secc_online/porta_fina_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051757.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br> <a href="port_secc_online/porta_inte_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051774.html" class=tituloTitular>Uruguay insiste en planta de celulosa</a><br><font class=textoLead>Efectuar un monitoreo internacional a las obras propuso el Gobierno de Uruguay, para certificar que ésta no contaminarán el río de La Plata.&nbsp;<a href="port_secc_online/porta_inte_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051774.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br> <a href="port_secc_online/porta_nego_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051711.html" class=tituloTitular>Prorrogan licencias de cableoperadores</a><br><font class=textoLead>La Comisión Nacional de Televisión prorrogó hasta el 2006 la concesión de TV por suscripción a TV Cable y a Costavisión.&nbsp;<a href="port_secc_online/porta_nego_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051711.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br> <a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051750.html" class=tituloTitular>Controversia por compra de equipos en el Congreso</a><br><font class=textoLead>Contraloría y Procuraduría cuestionan el proceso de adjudicación de la Cámara de Representantes por la compra de 196 computadores.&nbsp;<a href="port_secc_online/porta_econ_online/2006-07-20/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051750.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br> <a href="port_secc_online/porta_entre_online/2006-07-17/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051795.html" class=tituloTitular>Con oficinas en sótanos, listos para los huracanes</a><br><font class=textoLead>El temor a la temporada de huracanes en E.U. dio paso estrategias de defensa. Varias empresas han comenzado a montar oficinas subterráneas.&nbsp;<a href="port_secc_online/porta_entre_online/2006-07-17/ARTICULO-WEB-NOTA_INTERIOR_PORTA-3051795.html"><font size=2 face="Arial, Helvetica, sans-serif"><nobr>m&aacute;s >></nobr></font><br></a></font>  <br>
+            [690] => </td> 
+            [691] => </tr>
+            [692] => </table> 
+            [693] => </tD> 
+            [694] => <tD width=1>&nbsp; 
+            [695] => </tD> 
+            [696] => <td width=184 bgColor=#006666 valign=top > <CENTER> <br> <SCRIPT src="/busquedas/busquedasHtdig_new.js" languaje=JavaScript></SCRIPT> <form name=busquedaArticulosC action="javascript:buscarArticulosCorto('busquedaArticulosC')" method="POST"> <input type=hidden name=sort value="score"> <input type=hidden name=user_method value="and"> <input type=hidden name=sections value='porta_ana_online porta_bien_online porta_econ_online porta_entre_online porta_gere_online porta_inoc_online porta_inte_online porta_nego_online porta_opin_online porta_tecn_online porta_edit_online porta_fina_online porta_expe_online porta_domi_online porta_algr_online porta_sonde_online porta_perf_online porta_cron_online port_empleo porta_lunes_online porta_bruj_online porta_vita_online porta_ang_online WALL_ST_JOUR '> <input type=hidden name=config value="portafolio/htdig"> <input type=hidden name=restrict value=""> <input type=hidden name=exclude value=""> <input type=hidden name=words value=""> <input type=hidden name=method value="boolean">  <input type="hidden" name="fechainicio" value="20juli2006 OR 19juli2006 OR 18juli2006 OR 17juli2006 OR 16juli2006 OR 15juli2006 OR 14juli2006 OR 13juli2006 OR " > 
+            [697] => <table cellspacing=0 cellpadding=0 width=152 bgcolor=#ffffff border=0> 
+            [698] => <tr> 
+            [699] => <td bgcolor=#e7e7e7><img height=18 src="/img/cabuscarportafolio.gif" width=152>
+            [700] => </td> 
+            [701] => </tr> 
+            [702] => <tr> 
+            [703] => <td bgcolor=#006666 height=3> 
+            [704] => </td> 
+            [705] => </tr> 
+            [706] => <tr> 
+            [707] => <td> 
+            [708] => <table cellspacing=0 cellpadding=1 width=152 bgcolor=#000000 border=0> 
+            [709] => <tr> 
+            [710] => <td> 
+            [711] => <table cellspacing=0 cellpadding=4 width=150 bgcolor=#ffffff border=0> 
+            [712] => <tr> 
+            [713] => <td><font face=Arial color=#000000 size=2>Palabra clave:<br> <input maxlength=100 size=14 name=user_words> <br> <input type=image width=61 src=/img/botbuscaportafolio.gif border=0 height=20 name="image"> <br> <a href="http://www.portafolio.com.co/busquedas">Búsqueda avanzada</a> <p><font class="TextInd">Patrocinado por:</font><br> <!-- Nombre: ID_LOGO_PATROCINIO --> <!-- Inicio codigo e-planning - Espacio -->  <script type="text/javascript" language="JavaScript"> eplAD("5022938d3e7f17a0"); </script>  <!-- Fin codigo e-planning --> </p> </font>
+            [714] => </td> 
+            [715] => </tr> 
+            [716] => </table> 
+            [717] => </td> 
+            [718] => </tr> 
+            [719] => </table> 
+            [720] => </td> 
+            [721] => </tr> 
+            [722] => </table> </form> <a href='http://www.portafolio.com.co/proy_porta_online/tlc/index.html' target='_new' onClick='s_linkType="e";s_linkName="";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><img border="0" src="busquedas/IMAGEN/IMAGEN-1708837-0.gif" width="150" height="60" alt="Publicidad";></a> <P> 
+            [723] => <table width="170" border="0" cellspacing="0" cellpadding="0" align="center"> 
+            [724] => <tr> 
+            [725] => <td width="5">
+            [726] => </td> 
+            [727] => <td width="158" height="36" align=center><a href="http://tr2.eltiempo.terra.com.co/registro/index.php?origen=41"><img src="http://www.portafolio.com.co/img/VIA-MAIL.gif"  width="158" height="36" border="0"></a>
+            [728] => </td> 
+            [729] => </tr> 
+            [730] => </table>  <a href="http://www.portafolio.com.co/proy_porta_online/finsemana_porta/index.html"><img src="http://www.portafolio.com.co/img/finsemana.gif"  width="150" height="60" border="0" vspace=5></a> <P>  
+            [731] => <table width="157" border="0" cellspacing="1" cellpadding="0" bgcolor="#999999"> 
+            [732] => <tr> 
+            [733] => <td> 
+            [734] => <table width="100%" border="0" cellspacing="2" cellpadding="0" bgcolor="#FFFFFF"> 
+            [735] => <tr> 
+            [736] => <td valign="top" height="15"> <div align="center"><img src="/img/LogoPortafolio.gif" width="95" height="20" vspace="3"> </div> 
+            [737] => </td> 
+            [738] => <td rowspan="2"><img src="/img/dummi.gif" width="53" height="62" hspace="2">
+            [739] => </td> 
+            [740] => </tr> 
+            [741] => <tr> 
+            [742] => <td valign="top"> 
+            [743] => <table border="0" cellspacing="0" cellpadding="3"> 
+            [744] => <tr> 
+            [745] => <td><a href="/detect_reader.html?1153397180" style="text-decoration: none; color: #000000;"  target="_blank"><span class="TextInd">Vea la primera <br> p&aacute;gina de <font color="#CC0000"><b>hoy</b></font> en <br> formato <b>PDF</b></span></a>
+            [746] => </td> 
+            [747] => </tr> 
+            [748] => </table> 
+            [749] => </td> 
+            [750] => </tr> 
+            [751] => </table> 
+            [752] => </td> 
+            [753] => </tr> 
+            [754] => </table> <P>  
+            [755] => <tABLE border=0 width=157 class=TextInd> 
+            [756] => <tR vAlign=bottom align=middle> 
+            [757] => <tD bgColor=#f8d5af colSpan=2 width=157><img src=/img/cab_dolarhoy.gif width=157 height=18>
+            [758] => </tD> 
+            [759] => </tR> 
+            [760] => <tR vAlign=bottom> 
+            [761] => <tD align=left bgColor=#ECEADF width=100>T.R.M.
+            [762] => </tD> 
+            [763] => <tD align=right bgColor=ECEADF width=57>$ 2.521,18
+            [764] => </tD> 
+            [765] => </tR>  
+            [766] => <tR vAlign=bottom> 
+            [767] => <tD colspan=2 align=left bgColor=#C2D6D1 class=titIndicador><b>Casas de cambio</b> (promedio)
+            [768] => </tD> 
+            [769] => </tR> 
+            [770] => <tR vAlign=bottom> 
+            [771] => <tD align=left bgColor=#ECEADF width=100>&nbsp;Compra
+            [772] => </tD> 
+            [773] => <tD  align=right bgColor=#ECEADF width=57>$ 2.380,00
+            [774] => </tD> 
+            [775] => </tR> 
+            [776] => <tR vAlign=bottom> 
+            [777] => <tD align=left bgColor=#D4D0B9 width=100>&nbsp;Venta
+            [778] => </tD> 
+            [779] => <tD align=right bgColor=#D4D0B9 width=57>$ 2.490,00
+            [780] => </tD> 
+            [781] => </tR>  
+            [782] => <tR vAlign=bottom> 
+            [783] => <tD colspan=2 align=left bgColor=#C2D6D1 class=titIndicador><b>Precio en la calle</b> (promedio)
+            [784] => </tD> 
+            [785] => </tR> 
+            [786] => <tR vAlign=bottom> 
+            [787] => <tD align=left bgColor=#ECEADF width=100>&nbsp;Compra
+            [788] => </tD> 
+            [789] => <tD  align=right bgColor=#ECEADF width=57>$ 2.350,00
+            [790] => </tD> 
+            [791] => </tR> 
+            [792] => <tR vAlign=bottom> 
+            [793] => <tD align=left bgColor=#D4D0B9 width=100>&nbsp;Venta
+            [794] => </tD> 
+            [795] => <tD  align=right bgColor=#D4D0B9 width=57>$ 2.380,00
+            [796] => </tD> 
+            [797] => </tR> 
+            [798] => </tABLE>   <br> 
+            [799] => <tABLE border=0 class=TextInd> 
+            [800] => <tR vAlign=bottom align=middle> 
+            [801] => <tD bgColor=#f8d5af colSpan=2><img src=/img/cabindicadores.gif width=146 height=16>
+            [802] => </tD> 
+            [803] => </tR> 
+            [804] => <tR vAlign=bottom> 
+            [805] => <tD align=left bgColor=#D4D0B9>U.V.R.
+            [806] => </tD> 
+            [807] => <tD align=right bgColor=#D4D0B9>$ 157,9133
+            [808] => </tD> 
+            [809] => </tR> 
+            [810] => <tR vAlign=bottom> 
+            [811] => <tD align=left bgColor=#ECEADF>Café (Uscent - Libra)
+            [812] => </tD> 
+            [813] => <tD align=right bgColor=#ECEADF>106,99
+            [814] => </tD> 
+            [815] => </tR> 
+            [816] => <tR vAlign=bottom> 
+            [817] => <tD align=left bgColor=#D4D0B9>DTF (E.A.)
+            [818] => </tD> 
+            [819] => <tD align=right bgColor=#D4D0B9>6,45 %
+            [820] => </tD> 
+            [821] => </tR> 
+            [822] => <tR vAlign=bottom> 
+            [823] => <tD align=left bgColor=#ECEADF>Bolívar
+            [824] => </tD> 
+            [825] => <tD align=right bgColor=#ECEADF>$ 1,18
+            [826] => </tD> 
+            [827] => </tR> 
+            [828] => <tR vAlign=bottom> 
+            [829] => <tD align=left bgColor=#D4D0B9>Usura (Max. julio)
+            [830] => </tD> 
+            [831] => <tD align=right bgColor=#D4D0B9>22,62 %
+            [832] => </tD> 
+            [833] => </tR> 
+            [834] => <tR vAlign=bottom> 
+            [835] => <tD align=left bgColor=#ECEADF>Euro
+            [836] => </tD> 
+            [837] => <tD align=right bgColor=#ECEADF>$ 3.167,86
+            [838] => </tD> 
+            [839] => </tR> 
+            [840] => <tR vAlign=bottom> 
+            [841] => <tD align=left bgColor=#D4D0B9>Petróleo WTI
+            [842] => </tD> 
+            [843] => <tD align=right bgColor=#D4D0B9>US$ 72,66
+            [844] => </tD> 
+            [845] => </tR> 
+            [846] => </tABLE>     <P>   <P> <style type="text/css"> <!-- .encComboSimple {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt} .pregunta {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #000000} --> </style> <SCRIPT LANGUAGE="JavaScript" src="http://tr.eltiempo.terra.com.co/encuestas/lib/cookie.js"></SCRIPT> <SCRIPT LANGUAGE="JavaScript"> sC('/encuestas/votacionEncuestas/'); function enviar1870(){ if(document.frmDatosSondeo1870.P3813.selectedIndex == 0 ){ alert('Escoja un valor para ¿Cómo fueron los resultados de su empresa en el primer semestre?'); document.frmDatosSondeo1870.P3813.focus(); return; } document.frmDatosSondeo1870.submit(); return; } </SCRIPT>  <script language="JavaScript"> <!--  function abrirVentanaVotacion(url){  // Obtengo el objeto, sabiendo que es el primer elemento del formulario objeto = document.frmDatosSondeo1870.elements[0]; indice = objeto.selectedIndex;  if(indice !=0 ){ window.open(url, "resultados", "height=450, width=400, toolbars=no, location=no,status=no, menubar=no, resizable=no, scrollbars=no"); } }  function verResultados(url){ window.open(url, "votacion", "height=450, width=400, toolbar=no, location=no, status=no, menubar=no, resizable=no,scrollbars=no"); }  //--> </script> 
+            [847] => <table width="159" border="0" cellspacing="0" cellpadding="0" background=""> 
+            [848] => <tr valign="middle" align="center"> 
+            [849] => <td> <b><img vspace="2" src="http://www.portafolio.com.co/encuestas/img/portafolio/portafoliocab.gif"></b>
+            [850] => </td> 
+            [851] => </tr> 
+            [852] => </table> 
+            [853] => <table width="159" border="0" cellspacing="1" cellpadding="0" bgcolor="#000000" background=""> <form method="post" action="http://tr.eltiempo.terra.com.co/encuestas/votacionEncuestas/1870SV.php" name="frmDatosSondeo1870" target="resultados"> 
+            [854] => <tr> 
+            [855] => <td> 
+            [856] => <table width="157" border="0" cellspacing="3" cellpadding="0" bgcolor="#F9FBFB" background=""> 
+            [857] => <tr> 
+            [858] => <td> 
+            [859] => <table width="151" border="0" cellspacing="0" cellpadding="0" background=""> 
+            [860] => <tr> 
+            [861] => <td colspan="2">  
+            [862] => <table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+            [863] => <tr background=""> 
+            [864] => <td align="left" valign="top" colspan="2"><p class="pregunta">¿Cómo fueron los resultados de su empresa en el primer semestre?</p><SELECT name=P3813  class=encComboSimple><OPTION value='' selected>[Escoja]</OPTION><OPTION value=0>Excelentes</OPTION><OPTION value=1>Muy buenos</OPTION><OPTION value=2>Buenos</OPTION><OPTION value=3>Regulares</OPTION><OPTION value=4>Malos</OPTION><OPTION value=5>Pésimos</OPTION></SELECT>
+            [865] => </td> 
+            [866] => </tr> 
+            [867] => </table> 
+            [868] => </td> 
+            [869] => </tr> 
+            [870] => <tr> 
+            [871] => <td width="40" align="center"><a href="javascript:abrirVentanaVotacion('http://tr.eltiempo.terra.com.co/encuestas/resultadosEncuestas/1870RF.php'); enviar1870()"><img border="0" src="http://www.portafolio.com.co/encuestas/img/portafolio/portabotvote.gif" alt="Vote en esta encuesta" vspace=4 width="36" height="15"></a>
+            [872] => </td> 
+            [873] => <td align="center"><a href="javascript:verResultados('http://tr.eltiempo.terra.com.co/encuestas/resultadosEncuestas/1870RF.php')"><font color="#002972" size="2" face="Arial">Ver resultados</font></a>
+            [874] => </td> 
+            [875] => </tr> 
+            [876] => </table> 
+            [877] => </td> 
+            [878] => </tr> 
+            [879] => </table> 
+            [880] => </td> 
+            [881] => </tr> </form> 
+            [882] => </table>  <P> <style type="text/css"> <!-- .normal {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000} .extraordinario {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #990000; font-weight: bold} .vermastienda {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #006699; text-decoration: none} --> </style> <script language="JavaScript">  <!-- function abrir_voto(url){ window.open(url,"Encuestas","height=650,width=540,toolbar=no,location=no,status=no,menubar=no,resizable=no,scrollbars=yes"); } function abrirVentanaHTML(url, nombre, ancho, alto) { window.open( url, nombre, 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,menubar=no,width=' + ancho + ' ,height=' + alto); } //--> </script> 
+            [883] => <table width="160" cellspacing="0" cellpadding="0" bgcolor="#006666"> 
+            [884] => <tr align="center" valign="middle"> 
+            [885] => <td><img src="/img/tienda/cablibro.gif" width="160" height="21">
+            [886] => </td>  
+            [887] => </tr> 
+            [888] => <tr> 
+            [889] => <td height=2> 
+            [890] => </td> 
+            [891] => </tr> 
+            [892] => <tr> 
+            [893] => <td> 
+            [894] => <table width="160" cellspacing="0" cellpadding="1" bgcolor="#000000"> 
+            [895] => <tr> 
+            [896] => <td> 
+            [897] => <table width="160" cellspacing="0" cellpadding="1" bgcolor="#FFFFFF" align="center"> 
+            [898] => <tr> 
+            [899] => <td height="4" colspan="3">
+            [900] => </td> 
+            [901] => </tr> 
+            [902] => <tr> 
+            [903] => <td width="10">&nbsp;
+            [904] => </td> 
+            [905] => <td align="center" valign="top"><img src="IMAGEN/IMAGEN-2164082-0.gif">
+            [906] => </td> 
+            [907] => <td width="10">&nbsp;
+            [908] => </td> 
+            [909] => </tr> 
+            [910] => <tr> 
+            [911] => <td width="10">&nbsp;
+            [912] => </td> 
+            [913] => <td align="center"> <p><span class="normal">Mas de  250 términos económicos con la definición aplicada al caso colombiano.</span><br> <span class="extraordinario"></span></p> 
+            [914] => </td> 
+            [915] => <td width="10">&nbsp;
+            [916] => </td> 
+            [917] => </tr> 
+            [918] => <tr> 
+            [919] => <td colspan="3" align="left"> <!--div align="right" class="vermastienda"  onClick='s_linkType="e";s_linkName="Producto Tienda El Tiempo";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><a href=http://tienda.eltiempo.com/tienda_eltiempo/product_info.php?products_id=2028 class="vermastienda" --> <div align="right" class="vermastienda"><a href=http://tienda.eltiempo.com/tienda_eltiempo/product_info.php?products_id=2028 target=_blank class="vermastienda" >Ver m&aacute;s&gt;&gt;</a></div> 
+            [920] => </td> 
+            [921] => </tr> 
+            [922] => </table> 
+            [923] => </td> 
+            [924] => </tr> 
+            [925] => </table> 
+            [926] => </td> 
+            [927] => </tr> 
+            [928] => </table>  <P> 
+            [929] => <table BORDER width=150 bgcolor=#000000 bordercolor=#ffffff> 
+            [930] => <tr bgcolor=#CCCCCC> 
+            [931] => <td align=CENTER width=140 height=36> <p><img src=/img/cabcifradia.gif width=152 height=17"><br> <font size=2 face=Verdana  color=#660033><b>200.000</font><br> </b><font class=fotoApertura>Niños colombianos no tienen aún su registro civil de nacimiento.</font></p> 
+            [932] => </td> 
+            [933] => </tr> 
+            [934] => </table>  <P> <script language="JavaScript">  <!-- function abrir_voto(url){ window.open(url,"Encuestas","height=650,width=540,toolbar=no,location=no,status=no,menubar=no,resizable=no,scrollbars=yes"); } function abrirVentanaHTML(url, nombre, ancho, alto) { window.open( url, nombre, 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,menubar=no,width=' + ancho + ' ,height=' + alto); } //--> </script> 
+            [935] => <table width=150 bgcolor=#779988 border=0 cellpadding=0 cellspacing=4> <!-- Inicio encuesta tesis --> 
+            [936] => <tr>
+            [937] => <td align=center> 
+            [938] => </td>
+            [939] => </tr> <!-- Fin encuesta tesis --> 
+            [940] => <tr>
+            [941] => <td align=center><a href='http://www.lexbasecolombia.com/portafolio/' target=_blank><img border=0 src="IMAGEN/IMAGEN-2969237-0.gif" width=150 height=120 alt=LexBase vspace=2></a>
+            [942] => </td>
+            [943] => </tr> 
+            [944] => <tr>
+            [945] => <td align=center><a href='http://economia.uniandes.edu.co/html/cede/cede.htm' target=_blank><img border=0 src="IMAGEN/IMAGEN-2991114-0.gif" width=150 height=120 alt=Uniandes vspace=2></a>
+            [946] => </td>
+            [947] => </tr> 
+            [948] => <tr>
+            [949] => <td align=center><a href='http://www.ventures.com.co/contenido/articulo.asp?chapter=5&article=158 ' target=_blank><img border=0 src="IMAGEN/IMAGEN-2139125-0.gif" width=150 height=120 alt=Nuevos negocios vspace=2></a>
+            [950] => </td>
+            [951] => </tr> 
+            [952] => <tr>
+            [953] => <td align=center><a href='http://www.conexioncolombia.com ' onClick='s_linkType="e";s_linkName="Home ConexionColombia.com";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><img border=0 src="IMAGEN/IMAGEN-1702373-0.gif" width=150 height=60 alt=Conexión Colombia vspace=2></a>
+            [954] => </td>
+            [955] => </tr> 
+            [956] => <tr>
+            [957] => <td align=center><a href='http://www.dinero.com/' onClick='s_linkType="e";s_linkName="Home Dinero.com";s_lnk=this;setTimeout("s_gs(\"eltiempoportafolio\")",0);'><img border=0 src="IMAGEN/IMAGEN-1702371-0.gif" width=150 height=60 alt=Dinero vspace=2></a>
+            [958] => </td>
+            [959] => </tr> 
+            [960] => </table>  </CENTER> 
+            [961] => </td> 
+            [962] => </tR> 
+            [963] => </tABLE> <!-- Nombre: ID_OOQA_OOQA --> <!-- Inicio codigo e-planning - Espacio -->  <script type="text/javascript" language="JavaScript"> eplAD("b47ecc1995bd8207"); </script>  <!-- Fin codigo e-planning --> <br> 
+            [964] => <table cellPadding=0 cellSpacing=0 width=780 border=0> 
+            [965] => <tr> 
+            [966] => <td align=center>
+            [967] => <tABLE width=580 border=0> 
+            [968] => <tR>
+            [969] => <tD> 
+            [970] => <tABLE width="100%" border=0> 
+            [971] => <tR>
+            [972] => <tD> <CENTER><A href="javascript:abrir_aviso_legal()"><FONT face=Arial size=1>Aviso legal</FONT></A> <P><B><FONT face="Arial, Helvetica, sans-serif" size=2>COPYRIGHT © 2006 CASA EDITORIAL EL TIEMPO S.A.</FONT></B> <FONT face="Arial, Helvetica, sans-serif"><BR><FONT size=1>Prohibida su reproducción total o parcial, así como su traducción a cualquier idioma sin autorización escrita de su titular. <BR>Reproduction in whole or in part, or translation without written permission is prohibited. All rights reserved </FONT></FONT></P></CENTER>
+            [973] => </tD>
+            [974] => </tR>
+            [975] => </tABLE></CENTER><p></P>
+            [976] => </tD>
+            [977] => </tR>
+            [978] => </tABLE>
+            [979] => </td> 
+            [980] => </tr> 
+            [981] => </table> <script language="JavaScript" src="/js/s_code_remote.js"></script></body> </html> 
+        )
+
+    [selection] => 
+)
+INSERT INTO economy VALUES ('', 'T.R.M.', 'TRM', '$ 2.521,18', '2006-07-20')-1

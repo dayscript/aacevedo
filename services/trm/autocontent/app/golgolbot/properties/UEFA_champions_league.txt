@@ -1,0 +1,33 @@
+#UEFA Champions League
+
+import = /var/www/html/infinitum_futbol_new/config/system.cfg.php
+import = /var/www/html/infinitum_futbol_new/source/intranet/filesystem/FileManager.class.php
+
+url=http://www.latercera.com/feed/rest/latercera/servicios%20externos/deportes/uefa%20champions%20league
+
+datetime_format = Y-m-d H:i:s
+main_node = article
+id_site   = 4
+id_user   = 40
+id_folder = 49672
+dayware_class = article
+dayware_file_type = Articulo
+id = contentId
+
+cdate = date
+article_name = headline
+dayware_object.properties.intro = copy_intro
+dayware_object.properties.keywords = copy_intro
+dayware_object.properties.keywords = headline
+dayware_object.properties.pretitle = copy_intro
+dayware_object.properties.content = headline
+dayware_object.properties.content = copy_full
+
+dayware_object.images.ampliada.size = 655x400
+dayware_object.images.ampliada.url = image_large
+dayware_object.images.home.size = 370x230
+dayware_object.images.home.url = image_large
+dayware_object.images.preview.size = 140x80
+dayware_object.images.preview.url = image_large
+dayware_object.images.destacada.size = 70x70
+dayware_object.images.destacada.url = image_large

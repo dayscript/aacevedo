@@ -1,0 +1,308 @@
+<?
+include ( "class/HtmlParser.class.php" );
+include ( "class/DataBase.class.php" );
+
+$db  = new DataBase( "localhost", "autocontent", "parser", "autocontent", true );
+//$sql ="DELETE FROM economy WHERE updated = '" . date("Y-m-d") . "'";
+$sql ="truncate economy";
+$db->query( $sql );
+
+$pag = new HtmlParser( "http://www.corfinsura.com/espanol/indicadores/economicosHijos.asp?id=1" );
+if(!$pag->isEmpty())
+{
+	$item = array(	
+			"Café" => "Precios del Café Colombiano Suave Arábica",
+			"Petróleo" => "Precios del Petróleo",
+			"Oro" => "Precio del Oro"
+			);
+	foreach( $item as $name => $val )
+	{
+		if( ( $err = $pag->select( $val, "Históricos" ) ) == 0 )
+		{
+			$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"('" . $name . "', '" . $pag->getElement(2) . "', '" . $pag->getElement(3) . "', '', '" . date("Y-m-d") . "')";
+			$db->query( $sql );
+		}
+		else
+		{
+			echo $err . "\n";
+		}
+	}
+	$pag->reset();		
+
+	if( ( $err = $pag->select( "UVR", "Históricos" ) ) == 0 )
+	{
+		$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"( 'UVR', '', '" . $pag->getElement(2) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+	$pag->reset();		
+
+	if( ( $err = $pag->select( "IPC", "Históricos" ) ) == 0 )
+	{
+		$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"('" . $pag->getElement(2) . "', '', '" . $pag->getElement(3) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "'), " .
+		  	"('" . $pag->getElement(4) . "', '', '" . $pag->getElement(5) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "'), " .
+		  	"('" . $pag->getElement(6) . "', '', '" . $pag->getElement(7) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "'), " .
+		  	"('" . $pag->getElement(8) . "', '', '" . $pag->getElement(9) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "') ";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+}
+
+/********************************************/
+
+$pag = new HtmlParser( "http://www.corfinsura.com/espanol/indicadores/economicosHijos.asp?id=7" );
+if(!$pag->isEmpty())
+{
+	$item = array(	
+			"Dow Jones" => "Dow Jones",
+			"Nasdaq" => "Nasdaq",
+			"Libra" => "Libra",
+			"S&P 500" => "S&P 500"
+			);
+	foreach( $item as $name => $val )
+	{
+		if( ( $err = $pag->select( $val, "Históricos" ) ) == 0 )
+		{
+			$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, change_percent, updated ) VALUES " .
+				"('" . $name . "', '', '" . $pag->getElement(3) . "', '" . date("Y-m-d") . "', '" . str_replace( ",", ".", $pag->getElement(5) ) . "', '" . date("Y-m-d") . "')";
+			$db->query( $sql );
+		}
+		else
+		{
+			echo $err . "\n";
+		}
+		$pag->reset();		
+	}
+
+	if( ( $err = $pag->select( "Euro" , "Históricos" ) ) == 0 )
+	{
+		$pag->stripTags();
+		$sql = "INSERT INTO economy " . 
+			"( name, unit, value, date, change_percent, updated ) VALUES " .
+			"('Euro', 'USD', '" . ereg_replace( "[^0-9.,]", "", $pag->getElement(3) ) . "', '" . date("Y-m-d") . "', '" . str_replace( ",", ".", $pag->getElement(5) ) . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+	$pag->reset();		
+
+	if( ( $err = $pag->select( "Libor", "Históricos" ) ) == 0 )
+	{
+		$pag->stripTags();
+		$sql = "INSERT INTO economy " . 
+			"( name, unit, value, date, updated ) VALUES " .
+			"('Libor', '', '" . $pag->getElement(3) . "', '" . date("Y-m-d") . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+	$pag->reset();		
+
+	if( ( $err = $pag->select( "Prime", "Históricos" ) ) == 0 )
+	{
+		$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"( 'Prime', '', '" . $pag->getElement(2) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+	$pag->reset();		
+}
+
+/********************************************/
+
+$pag = new HtmlParser( "http://www.corfinsura.com/espanol/indicadores/economicosHijos.asp?id=3" );
+if(!$pag->isEmpty())
+{
+	$item = array(	
+			"Tasa Interbancaria E.A." => "Tasa Interbancaria",
+			"Tasa de Usura E.A." => "Tasa de Usura E.A."
+			);
+	foreach( $item as $name => $val )
+	{
+		if( ( $err = $pag->select( $val, "Históricos" ) ) == 0 )
+		{
+			$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"('" . $name . "', '', '" . $pag->getElement(2) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "')";
+			$db->query( $sql );
+		}
+		else
+		{
+			echo $err . "\n";
+		}
+		$pag->reset();		
+	}
+
+	$item = array(	
+			"DTF 90 Días" => "DTF 90 Días",
+			"DTF 180 Días" => "DTF 180 Días",
+			"DTF 360 Días" => "DTF 360 Días",
+			"T.C.C." => "T.C.C."
+			);
+	foreach( $item as $name => $val )
+	{
+		if( ( $err = $pag->select( $val, "Históricos" ) ) == 0 )
+		{
+			$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"( '" . $name . "', '" . $pag->getElement(2) . "', '" . $pag->getElement(3) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "')";
+			$db->query( $sql );
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"( '" . $name . "', '" . $pag->getElement(4) . "', '" . $pag->getElement(5) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "')";
+			$db->query( $sql );
+		}
+		else
+		{
+			echo $err . "\n";
+		}
+		$pag->reset();		
+	}
+}
+
+/********************************************/
+
+$pag = new HtmlParser( "http://www.corfinsura.com/espanol/indicadores/economicosHijos.asp?id=5" );
+if(!$pag->isEmpty())
+{
+/*	if( ( $err = $pag->select( "TRM", "Históricos" ) ) == 0 )
+	{
+		$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"( 'TRM', '', '" . $pag->getElement(2) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}*/
+
+	if( ( $err = $pag->select( "Devaluación", "Históricos" ) ) == 0 )
+	{
+		$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, updated ) VALUES " .
+				"( '" . $pag->getElement(2) . "', '', '" . $pag->getElement(3) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "'), " .
+			  "( '" . $pag->getElement(4) . "', '', '" . $pag->getElement(5) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "'), " .
+		  	"( '" . $pag->getElement(6) . "', '', '" . $pag->getElement(7) . "', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "') ";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+}
+
+/********************************************/
+
+$pag = new HtmlParser( "http://www.corfinsura.com/espanol/simuladores/home.asp?Inc=1" );
+if(!$pag->isEmpty())
+{
+	if( ( $err = $pag->select( "<span class=\"foot\">CAD", "</tr" ) ) == 0 )
+	{
+		$pag->stripTags();
+		$sql = "INSERT INTO economy " . 
+			"( name, unit, value, date, updated ) VALUES " .
+			"( '" . $pag->getElement(0) . "', 'USD', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+		$sql = "INSERT INTO economy " . 
+			"( name, unit, value, date, updated ) VALUES " .
+			"( '" . $pag->getElement(0) . "', 'COP', '" . $pag->getElement(2) . "', '" . date("Y-m-d") . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+}
+
+/********************************************/
+
+$pag = new HtmlParser( "http://portafolio.com.co/" );
+if(!$pag->isEmpty())
+{
+	if( ( $err = $pag->select( "0>T.R.M.", "</tR" ) ) == 0 )
+	{
+		$pag->stripTags();
+		$sql = "INSERT INTO economy " . 
+			"( name, unit, value, date, updated ) VALUES " .
+			"( 'TRM', 'COP', '" . $pag->getElement(1) . "', '" . date("Y-m-d") . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+
+	if( ( $err = $pag->select( "#ECEADF>Euro", "</tR" ) ) == 0 )
+	{
+		$pag->stripTags();
+		$sql = "INSERT INTO economy " . 
+			"( name, unit, value, date, updated ) VALUES " .
+			"( '" . $pag->getElement(0) . "', 'COP', '" . ereg_replace( "[^0-9.,]", "", $pag->getElement(1) ) . "', '" . date("Y-m-d") . "', '" . date("Y-m-d") . "')";
+		$db->query( $sql );
+	}
+	else
+	{
+		echo $err . "\n";
+	}
+}
+
+/********************************************/
+
+$pag = new HtmlParser( "http://caixacatalunya.ahorro.com/acnet/mercados_valores/indices/zona_indices.jsp" );
+if(!$pag->isEmpty())
+{
+	$item = array(	
+			"IBEX 35" => "IBEX  35",
+			"FTSE 100" => "FTSE 100"
+			);
+	foreach( $item as $name => $val )
+	{
+		if( ( $err = $pag->select( $val . "</a", "<img" ) ) == 0 )
+		{
+			$pag->stripTags();
+			$sql = "INSERT INTO economy " . 
+				"( name, unit, value, date, change_percent, updated ) VALUES " .
+				"( '" . $name . "', '', '" . $pag->getElement(1) . "', '" . $pag->getElement(4) . "', '" . str_replace( ",", ".", $pag->getElement(3) ) . "', '" . date("Y-m-d") . "')";
+			$db->query( $sql );
+		}
+		else
+		{
+			echo $err . "\n";
+		}
+		$pag->reset();		
+	}
+
+}
+
+?>
